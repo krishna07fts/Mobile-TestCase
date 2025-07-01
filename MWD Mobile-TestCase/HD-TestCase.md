@@ -1,5 +1,4 @@
-## MWD Mobile Test case
- ### Helpdesk
+### Helpdesk
 
 | TestCaseID    |   Title |    Functionality |
 | :--------: | :-------:   |  :-------:   |
