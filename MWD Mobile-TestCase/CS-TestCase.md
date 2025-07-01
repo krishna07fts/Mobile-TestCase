@@ -1,5 +1,4 @@
-## MWD Mobile Test case
- ### Customer Support
+### Customer Support
 
 | TestID    |   Title |    Functionality |
 | :--------: | :-------:   |  :-------:   |
